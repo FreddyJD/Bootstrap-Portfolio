@@ -1,0 +1,12 @@
+body {
+    margin: 40px auto;
+    background-image: url("../img/leaves-pattern.png");
+    background-repeat: repeat;
+}
+
+.container{ 
+    margin: 60px 0;
+    background-color: white;
+    padding: 30px 0;
+
+}
