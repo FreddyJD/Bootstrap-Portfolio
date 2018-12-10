@@ -28,6 +28,9 @@ body {
     margin: 0 20%;
 }
 
-.container-footer {
-    
+.new-footer {
+    background-color: #ffffff;
+    text-align: center;
+    width: 100%;
+    height: 65px;
 }
