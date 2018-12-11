@@ -17,9 +17,22 @@ body {
     height: 100px;
 }
 
+.portfolio {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
 .row { 
     padding: 20px;
 }
+
+.img-responsive{
+    margin-right:0px;
+    margin-left:0px;
+    border:none;
+  }
+
 
 .navbar-brand { 
     background-color: #59AAA5; 
