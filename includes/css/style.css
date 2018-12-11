@@ -4,11 +4,19 @@ body {
     background-repeat: repeat;
 }
 
-.container{ 
+.container-body { 
     margin: 60px 0;
     background-color: white;
     padding: 30px 0;
     border-radius: 10px
+}
+
+.container-footer { 
+    position: static;
+    background-color: white;
+    margin: 0;
+    bottom: 0;
+    width: 110%;
 }
 
 .row { 
